@@ -31,13 +31,13 @@ color: white;
 
 h2 {
 font-family: 'Roboto Condensed', 'serif';
-font-size: 16px;
+font-size: 2vw;
 text-align: center;
 font-style: italic;
 }
 h3 {
   font-family: 'Oswald', 'sans-serif';
-  font-size: 35px;
+  font-size: 4vw;
   text-align: center;
   color: white;
 }
