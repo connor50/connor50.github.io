@@ -33,7 +33,7 @@ font-family: 'Roboto Condensed', 'serif';
 font-size: calc(1rem + 1vw);
 text-align: center;
 font-style: italic;
-padding: 1rem 2rem;
+padding: 2rem 2rem 0;
 }
 h3 {
   font-family: 'Oswald', 'sans-serif';
