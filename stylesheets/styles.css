@@ -12,6 +12,9 @@ h1 {
   line-height: 35vw;
 }
 
+a {
+color: white;
+}
 div.header {
 
   padding-bottom: 50px;
